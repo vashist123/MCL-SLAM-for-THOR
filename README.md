@@ -7,12 +7,13 @@ The data consists of Planar Lidar scans of the THOR-OP Humanoid robot along with
 ### Map 1
 
 <img src = "https://github.com/vashist123/MCL-SLAM-for-THOR/blob/main/results/map_0.jpg">
-![](https://github.com/vashist123/MCL-SLAM-for-THOR/blob/main/gifs/map_0.gif)
+![map_0](https://user-images.githubusercontent.com/68932319/119015466-eb467c80-b966-11eb-9a13-3fb03fc9d536.gif)
+
 
 ### Map 2
 
 <img src = "https://github.com/vashist123/MCL-SLAM-for-THOR/blob/main/results/map_1.jpg">
-![](https://github.com/vashist123/MCL-SLAM-for-THOR/blob/main/gifs/map_1.gif)
+![map_1](https://user-images.githubusercontent.com/68932319/119015709-28ab0a00-b967-11eb-94e9-a3f5a3c93409.gif)
 
 ### Map 3
 
